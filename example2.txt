@@ -1,3 +1,0 @@
-This is a change on github
-
-This is an example of making a change to a file. 
